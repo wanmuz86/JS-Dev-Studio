@@ -1,0 +1,18 @@
+.button {
+    background-color: rgb(102, 194, 255);blue; /* Green */
+    border-radius:15px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    padding-top: 200px 40px 20px 40px;
+    margin: 20px 40px 60px 80px;
+    border: 20px 40px 60px 80px;
+}
+
+.Challenge3 {
+    text-align: center;
+    padding-top: 200px;
+    margin: 20px 40px 60px 80px;
+    border: 20px 40px 60px 80px;
+
+}
