@@ -1,0 +1,19 @@
+h1  {
+  font-size: 40px;
+  text-align: center;
+}
+th  {
+  background-color: rgba(24, 253, 123, 1);
+  border: 20px solid;
+  border-radius: 10px;
+  padding: 25px;
+  margin: 40px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-weight: lighter;
+  font-size: bold;
+  text-color: rgba(255,255,255,1)
+  text-decoration: underline;
+  text-align: center;
+  font-color:
+}
