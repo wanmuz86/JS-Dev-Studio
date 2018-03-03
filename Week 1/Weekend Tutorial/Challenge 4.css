@@ -8,94 +8,98 @@ h1{
 body{
   background-color: rgb(135,135,135);
 }
-
+p{
+  width: 300px;
+  padding: 1px 1000px 1px 1px;
+  margin: 10px;
+}
 .fourteen{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(202, 100, 50)
+  background-color: rgb(0, 162, 255)
 }
 .thirteen{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(36, 170, 255)
 }
 .twelve{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(72, 180, 255)
 }
 .eleven {
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(108, 190, 255)
 }
 .ten{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(144, 200, 255)
 }
 .nine{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(180, 210, 255)
 }
 .eight{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(216, 220, 255)
 }
 .seven{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: green;
 }
 .six{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(255, 192, 227)
 }
 .five{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(255, 182, 217)
 }
 .four{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(255, 152, 207)
 }
 .three{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(255, 132, 197)
 }
 .two{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
-  }>
+  background-color: rgb(255, 100, 187)
+  }
 .one{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(255, 60, 169)
 }
 .zero{
   width: 300px;
   padding: 25px 1000px 25px 20px;
   margin: 10px;
-  background-color: rgb(193, 193, 193)
+  background-color: rgb(255, 40, 160)
 }
